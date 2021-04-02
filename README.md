@@ -5,6 +5,22 @@ Check out Live Website https://netflix-clone-da71e.web.app/
 ![image](https://user-images.githubusercontent.com/74877594/113420802-9915c000-93e7-11eb-82c1-ac0c42c81ed5.png)
 
 
+Node Packages
+React-Youtube, React-indiana-drag-scroll, movie-trailer
+
+Installation
+Use npm to install dependencies
+
+run the following commands in terminal:
+
+run npm install
+// to add all the dependencies requuired to run the project 
+
+Add your TMDB API key in the Request.js file
+
+run npm run start
+// to run the project in your local system
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
